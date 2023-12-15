@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "id": "27",
+      "caption": "master",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Master_album_cover.jpg",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk"
+    },
+    {
+      "id": "2",
+      "caption": "master",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Master_album_cover.jpg",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk"
+    }
+  ],
+  "category": [
+    {
+      "id": "10",
+      "name": "film",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "master",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Master_album_cover.jpg",
+          "url": "https://www.youtube.com/embed/fRD_3vJagxk"
+        },
+        {
+          "id": "27",
+          "caption": "master",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Master_album_cover.jpg",
+          "url": "https://www.youtube.com/embed/fRD_3vJagxk"
+        },
+        {
+          "id": "2",
+          "caption": "master",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Master_album_cover.jpg",
+          "url": "https://www.youtube.com/embed/fRD_3vJagxk"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "08-12-2023"
+    },
+    {
+      "id": "95670611-fe81-482b-8da3-ea3f148c5342",
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "2023-12-12T07:17:50.003Z"
+    },
+    {
+      "id": "1d9a2f08-a174-4c89-ad87-923f0e35dd33",
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "2023-12-12T07:22:23.242Z"
+    },
+    {
+      "id": "8ed735de-3819-4d60-bb8a-15da010408fb",
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "2023-12-12T07:58:41.777Z"
+    },
+    {
+      "id": "706466f2-a593-49af-9c2a-942a92f30107",
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "2023-12-13T06:58:55.968Z"
+    },
+    {
+      "id": "f86d12f9-7957-4ef9-91ac-0b83f6816bef",
+      "cardname": "master",
+      "url": "https://www.youtube.com/embed/fRD_3vJagxk",
+      "Date": "2023-12-13T07:26:22.673Z"
+    }
+  ]
+}
